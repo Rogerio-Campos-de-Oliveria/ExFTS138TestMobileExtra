@@ -1,0 +1,3 @@
+4 - Teste Mobile - utilize o app Extra e o ambiente do Saucelabs ou device ou emulador local
+4.1 - Crie um script simples que realize a consulta de um produto no site até chegar a etapa do carrinho de compras. Valide o nome e o preço do produto em cada uma das telas para garantir que se mantenha o mesmo.
+4.2 - Organize e execute esse mesmo script em Page Objects
